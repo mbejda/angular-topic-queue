@@ -1,0 +1,31 @@
+{
+  "name": "angular-topic-queue",
+  "main": "angular-topic-queue.js",
+  "version": "0.0.1",
+  "authors": [
+    "Milos Bejda <mbejda@live.com>"
+  ],
+  "description": "Angular Queue with topic routing and acknowledgement.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "angularjs",
+    "angular",
+    "queue",
+    "angular",
+    "topic",
+    "queue",
+    "angular",
+    "angular",
+    "topic",
+    "routing",
+    "queue"
+  ],
+  "license": "MIT",
+  "homepage": "http://mbejda.com",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ]
+}
