@@ -30,9 +30,9 @@ angular.module('app')
   
   })
 
-``
+```
 
-## Example Usage<br>
+## Example Usage
 
 Routing to specific topic queues.
 ```
